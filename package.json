@@ -1,0 +1,21 @@
+{
+  "name": "jcg-webcode-frontend",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.html",
+  "description": "Web interface for jcg-code-generator. Uses the npm package jcg-code-generator",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljbergman/webCode.git"
+  },
+  "keywords": [
+    "code-generator"
+  ],
+  "author": "L.J. Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljbergman/webCode/issues"
+  },
+  "homepage": "https://github.com/ljbergman/webCode#readme"
+}
